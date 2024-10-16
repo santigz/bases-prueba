@@ -1,6 +1,8 @@
 # bases-prueba
 Esta es la descripción del proyecto
 
+![La mejor imagen de Linux](kitten-linux.jpg)
+
 ## Sección
 Una lista:
 - Hola.
