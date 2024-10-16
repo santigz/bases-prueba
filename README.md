@@ -16,3 +16,33 @@ Otra lista ordenada:
    - Recordar 
 3. Tercer paso
 
+## Más cositas
+Enlace a [la web del kernel](https://kernel.org).
+
+Código:
+
+- Esto es `INSERT INTO` en formati inline.
+- Lo siguiente es un bloque de código:
+
+```sql
+CREATE TABLE gatito (
+  cabeza VARCHAR(255),
+  patitas INT
+);
+```
+
+También si indentamos con varios espacios:
+
+    CREATE TABLE tabla (
+       a INT
+    );
+    ...
+
+
+
+
+
+
+
+
+
